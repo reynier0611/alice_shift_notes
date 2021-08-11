@@ -25,7 +25,7 @@ Join the following channels:
    ```
 
 - InfoLogger: [http://alihlt-gw-prod.cern.ch:8081](http://alihlt-gw-prod.cern.ch:8081)
-- Logbook: [bookkeeping.cern.ch](bookkeeping.cern.ch)
+- Logbook: [https://ali-bookkeeping.cern.ch](https://ali-bookkeeping.cern.ch)
 - Grafana: [http://alihlt-gw-prod.cern.ch:3320/](http://alihlt-gw-prod.cern.ch:3320/)
 - Oncall contacts: [https://alice-glance.cern.ch/alice/sams/public/src-display](https://alice-glance.cern.ch/alice/sams/public/src-display)
 - Run numbers can be found here: [https://alice-flp.docs.cern.ch/Shifters/aliecs/](https://alice-flp.docs.cern.ch/Shifters/aliecs/)
