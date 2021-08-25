@@ -21,3 +21,11 @@ Before you can take shifts you need to:
    - visit: [https://alice-glance.cern.ch/alice/sams/](https://alice-glance.cern.ch/alice/sams/)
    - Click on ```Shifts``` (next to a weird icon that looks like a badge ![alt text](https://github.com/reynier0611/alice_shift_notes/blob/main/figs/F2.png "Shifts button")) or the ```Booking``` link right below ```Shifts```
 - Booking the trainings:
+   - Unmark the DCS and SL/ECS from the ```General``` menu on the left side of the screen to filter out those slots:
+   ![alt text](https://github.com/reynier0611/alice_shift_notes/blob/main/figs/F3.png "Menu button")
+   - Click on the “View Trainings” blue button at the top-left corner (![alt text](https://github.com/reynier0611/alice_shift_notes/blob/main/figs/F4.png "View trainings"))
+   - Click on any available three-day block
+   - When the three-day block gets highlighted in black, scroll up to the beginning of the screen and click on the green button with an arrow pointing to the right:
+   ![alt text](https://github.com/reynier0611/alice_shift_notes/blob/main/figs/F4.png "Booking training")
+   Until you click on the green button, the trainings won’t be booked
+   - Some emails with links and additional info will be emailed to you prior to the beginning of the classes
