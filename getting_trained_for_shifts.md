@@ -42,7 +42,7 @@ Note: Even if you will only take QC or EPN/PDP shifts, you need to be trained on
    - Some of the things you will need to do are summarized here: [https://github.com/reynier0611/alice_shift_notes/blob/main/QC_and_EPN_PDP_shifts.md](https://github.com/reynier0611/alice_shift_notes/blob/main/QC_and_EPN_PDP_shifts.md)
    - You will need to join some Mattermost channels. You won’t be able to join some of them yourself. Someone will have to add you. The shift taker who is training you can help out
 - Day 2 (from home)
-   - Do the exact same thing as you did in day 1, but for the other shift category (e.g. if the first day you chose to do QC, then do EPN/PDP the second day)
+   - Do the exact same thing as you did on day 1, but for the other shift category (e.g. if the first day you chose to do QC, then do EPN/PDP the second day)
 - Day 3 (From ROS, Mateusz’s office)
    - Go to ROS and log into all the portals you learned about during days 1 and 2
    - “Take over” the QC shifter for half the shift, and take over the EPN/PDP shifter the other half (order does not matter). Usually the EPN/PDP shifter is more active than the QC one, so you may be asked to do EPN/PDP during the entire shift, rather than half and half
