@@ -1,6 +1,6 @@
 # QC and EPN/PDP Shift Instructions
 
-[Back to table of Contents](https://github.com/reynier0611/personal_notes/blob/master/README.md)
+[Back to previous page](https://github.com/reynier0611/alice_shift_notes/blob/main/getting_trained_for_shifts.md)
 
 First of all, connect via proxy. Instructions can be found [here](https://security.web.cern.ch/recommendations/en/ssh_browsing.shtml).
 After proxy has been properly setup, go to a terminal and enter:
