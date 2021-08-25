@@ -27,7 +27,7 @@ Note: Even if you will only take QC or EPN/PDP shifts, you need to be trained on
    ![alt text](https://github.com/reynier0611/alice_shift_notes/blob/main/figs/F3.png "Menu button")
    - Click on the “View Trainings” blue button at the top-left corner (![alt text](https://github.com/reynier0611/alice_shift_notes/blob/main/figs/F4.png "View trainings"))
    - Click on any available three-day block
-   - When the three-day block gets highlighted in black, scroll up to the beginning of the screen and click on the green button with an arrow pointing to the right:
+   - When the three-day block gets highlighted in black, scroll up to the top of the page and click on the green button with an arrow pointing to the right:
    ![alt text](https://github.com/reynier0611/alice_shift_notes/blob/main/figs/F5.png "Booking training")
    - Until you click on the green button, the trainings won’t be booked
    - Some emails with links and additional info will be emailed to you prior to the beginning of the classes
