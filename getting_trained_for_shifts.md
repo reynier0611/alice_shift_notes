@@ -37,7 +37,7 @@ Note: Even if you will only take QC or EPN/PDP shifts, you need to be trained on
 - Day 1 (from home)
    - Join the Zoom link that was sent to you. That Zoom room corresponds to the actual room all the shifters are connected to
    - Don't wait for anyone to tell you what to do. This is not a pedagogical exercise for anyone other than yourself. This is an actual shift. Be proactive!
-   - Ask who is the QC shifter (or EPN/PDP shifter, the order does not matter)
+   - Ask who the QC shifter if (or EPN/PDP shifter, the order does not matter)
    - Follow up with that person and ask for detailed instructions
    - Some of the things you will need to do are summarized here: [https://github.com/reynier0611/alice_shift_notes/blob/main/QC_and_EPN_PDP_shifts.md](https://github.com/reynier0611/alice_shift_notes/blob/main/QC_and_EPN_PDP_shifts.md)
    - You will need to join some Mattermost channels. You won’t be able to join some of them yourself. Someone will have to add you. The shift taker who is training you can help out
