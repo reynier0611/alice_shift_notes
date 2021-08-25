@@ -26,6 +26,21 @@ Before you can take shifts you need to:
    - Click on the “View Trainings” blue button at the top-left corner (![alt text](https://github.com/reynier0611/alice_shift_notes/blob/main/figs/F4.png "View trainings"))
    - Click on any available three-day block
    - When the three-day block gets highlighted in black, scroll up to the beginning of the screen and click on the green button with an arrow pointing to the right:
-   ![alt text](https://github.com/reynier0611/alice_shift_notes/blob/main/figs/F4.png "Booking training")
-   Until you click on the green button, the trainings won’t be booked
+   ![alt text](https://github.com/reynier0611/alice_shift_notes/blob/main/figs/F5.png "Booking training")
+   - Until you click on the green button, the trainings won’t be booked
    - Some emails with links and additional info will be emailed to you prior to the beginning of the classes
+
+## 3. Taking the trainings:
+- Day 1 (from home)
+   - Join the Zoom link that was sent to you. That Zoom room corresponds to the actual room all the shifters are connected to
+   - Don't wait for anyone to tell you what to do. This is not a pedagogical exercise for anyone other than yourself. This is an actual shift. Be proactive!
+   - Ask who is the QC shifter (or EPN/PDP shifter, the order does not matter)
+   - Follow up with that person and ask for detailed instructions
+   - Some of the things you will need to do are summarized here: [https://github.com/reynier0611/alice_shift_notes/blob/main/QC_and_EPN_PDP_shifts.md](https://github.com/reynier0611/alice_shift_notes/blob/main/QC_and_EPN_PDP_shifts.md)
+   - You will need to join some Mattermost channels. You won’t be able to join some of them yourself. Someone will have to add you. The shift taker who is training you can help out
+- Day 2 (from home)
+   - Do the exact same thing as you did in day 1, but for the other shift category (e.g. if the first day you chose to do QC, then do EPN/PDP the second day)
+- Day 3 (From ROS, Mateusz’s office)
+   - Go to ROS and log into all the portals you learned about during days 1 and 2
+   - “Take over” the QC shifter for half the shift, and take over the EPN/PDP shifter the other half (order does not matter). Usually the EPN/PDP shifter is more active than the QC one, so you may be asked to do EPN/PDP during the entire shift, rather than half and half
+   - At some point after your shift you should get an email informing you that now you are allowed to take actual shifts
