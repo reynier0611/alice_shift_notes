@@ -4,6 +4,8 @@ Before you can take shifts you need to:
 1. Take two online classes (one for QC shifts and one for EPN/PDP shifts)
 2. Take three days of shifts
 
+Note: Even if you will only take QC or EPN/PDP shifts, you need to be trained on both
+
 ## 1. Sign up for classes:
 - Visit: [https://alice-glance.cern.ch/alice/sams/classes/calendar?date=2021-08-31#](https://alice-glance.cern.ch/alice/sams/classes/calendar?date=2021-08-31#)
 - If that does not work get to the same place the following way:
